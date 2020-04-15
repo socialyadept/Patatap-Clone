@@ -1,14 +1,14 @@
-##For contributors:
+### For contributors:
 
 The file is easy to use. 
 
-Just tap on 'folk' copy the link.
+1. Just tap on 'folk' copy the link.
 
-Goto git BASH
+2. Goto git BASH
 
-Write git clone <*link you copied*>
+3. Write git clone <*link you copied*>
 
-###For normal checking of the implementation:
+### For normal checking of the implementation:
 Just Download the git file and open the ***Patatap Clone.html*** file using any browser.
 
 How to use:
