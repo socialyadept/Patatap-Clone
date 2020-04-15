@@ -1,0 +1,9 @@
+canvas {
+  width: 100%;
+  background: black;
+}
+
+body {
+  margin: auto;
+  height: 100%;
+}
