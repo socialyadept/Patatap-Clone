@@ -11,6 +11,6 @@ The file is easy to use.
 ## For normal checking of the implementation:
 Just Download the git file and open the ***Patatap Clone.html*** file using any browser.
 
-## How to use:
+### How to use:
 
 Pressing on any key in *QWERTY* keyboard will generate sounds with animations and in this way you can make your own music out of it after learning it from scratch.
